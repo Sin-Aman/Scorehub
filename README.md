@@ -52,10 +52,15 @@ We will be working in two week iteration cycles. Each iteration we will complete
 **Iteration 1** Due 10/4
 
 * As a user, I am interested in some but not all game details and most sports apps out there spam me with too much information. **Story Points: 8** 
+* Identifying a data source
+* Parse desired data [Good Article](https://towardsdatascience.com/web-scraping-advanced-football-statistics-11cace1d863a)
+* Build a simple local database 
+* Import the desired data into our database 
 
 **Iteration 2** Due 10/18
 
 * As a user I want to receive this information in real time so I can stay on top of vital game information. **Story Points: 5** 
+* Identify a way to host database [Free Azure hosting](https://azure.microsoft.com/en-us/free/sql-on-azure/)
 * As a user, I want to follow this information through twitter, so I can receive notifications of big soccer matches around the world. **Story Points: 5** 
 
 **Iteration 3** Due 11/1
