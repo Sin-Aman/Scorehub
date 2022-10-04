@@ -24,6 +24,7 @@ IST 303 – Software Development
    * In Mac: source virtenv/Scripts/activate
 3. Run the requirements.txt file with the following command: `pip! install -r requirements.txt`
 4. Run the flasktest.py file in your command prompt. 
+
 **Application Concept:**
 
 A soccer notification application. The app would track score updates on live sporting events. The updates would include details such as which player scored, assisted, has been disciplined, how much time is left in the match, etc.
