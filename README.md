@@ -20,8 +20,8 @@ IST 303 – Software Development
 1. Clone the repo to your computer. (Unzip if necessary)
 2. Navigate on Command Prompt to the repo on your computer
 3. Create and run a virtual environment for python: 
-   * # In Windows.\virtenv\Scripts\activate 
-   * # In Mac: source virtenv/Scripts/activate
+   * In Windows.\virtenv\Scripts\activate 
+   * In Mac: source virtenv/Scripts/activate
 3. Run the requirements.txt file with the following command: `pip! install -r requirements.txt`
 4. Run the flasktest.py file in your command prompt. 
 **Application Concept:**
