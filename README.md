@@ -25,41 +25,41 @@ Environment to run the application:
 
 * Make sure `git` is installed on your local machine. Clone the entire project source code from github by running command below in command prompt : 
 
-`git clone https://github.com/Sin-Aman/Scorehub.git`
+ `git clone https://github.com/Sin-Aman/Scorehub.git`
 
 * In command prompt, access the the directory "Scorehub"
 
-`cd Scorehub`
+ `cd Scorehub`
 
 * Create a Virtual Environment
 
 * Install virtual environment:
 
-`pip install virtualenv`
+ `pip install virtualenv`
 
 Create virtual environment named "venvi" (Note : In command prompt make sure you are accessing same root folder where you have cloned source code in step 1)
 
-`python -m virtualenv venvi`
+ `python -m virtualenv venvi`
 
 * Activate the virtual environment:
 
-For Windows OS use command below
+ For Windows OS use command below
 
-venvi\Scripts\activate
+ `venvi\Scripts\activate`
 
-For Mac and other Linux OS use command below.
+ For Mac and other Linux OS use command below.
 
-source webappenv/bin/activate
+ `source venvi/bin/activate`
 
-Install the packages you need from requirements.txt. To install, use the commamd below.
+* Install the packages you need from requirements.txt. To install, use the commamd below.
 
-(webappenv)$ pip install -r requirements.txt
+ `(venvi)$ pip install -r requirements.txt`
 
 Run the server on your machine
 
-(webappenv)$ python main.py
+`(venvi)$ python main.py`
 
-The website can be accessed at http://127.0.0.1:8000
+ The website can be accessed at `http://127.0.0.1:8000`
 
 **Application Concept:**
 
