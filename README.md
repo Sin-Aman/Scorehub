@@ -17,13 +17,51 @@ IST 303 – Software Development
 [Patrick Watkins](https://cgu.instructure.com/groups/6458/users/19938)
 
 ### How to run this application:
-1. Clone the repo to your computer. (Unzip if necessary)
-2. Navigate on Command Prompt to the repo on your computer
-3. Create and run a virtual environment for python: 
-   * In Windows.\virtenv\Scripts\activate 
-   * In Mac: source virtenv/Scripts/activate
-3. Run the requirements.txt file with the following command: `pip! install -r requirements.txt`
-4. Run the flasktest.py file in your command prompt. 
+
+Environment to run the application
+
+Python 3.10.7
+Pip 22.2.2
+
+Steps to run the application
+
+Clone the entire project source code from github by running command below in command prompt. Make sure git is installed on your local machine.
+
+git clone https://github.com/PatrickWatkins20/Scorehub.git
+
+In command prompt, access the the directory "Scorehub"
+
+cd Scorehub
+
+Create Virtual Environment
+
+Install virtual environment:
+
+pip install virtualenv
+
+Create virtual environment named "webappenv" (Note : In command prompt make sure you are accessing same root folder where you have cloned source code in step 1)
+
+python -m virtualenv webappenv
+
+Activate the virtual environment:
+
+For Windows OS use command below
+
+webappenv\Scripts\activate
+
+For Mac and other Linux OS use command below.
+
+source webappenv/bin/activate
+
+Install the packages you need from requirements.txt. To install, use the commamd below.
+
+(webappenv)$ pip install -r requirements.txt
+
+Run the server on your machine
+
+(webappenv)$ python main.py
+
+The website can be accessed at http://127.0.0.1:5000
 
 **Application Concept:**
 
