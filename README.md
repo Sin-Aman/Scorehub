@@ -18,12 +18,11 @@ IST 303 – Software Development
 
 ### How to run this application:
 
-Environment to run the application
+Environment to run the application:
+* Python 3.10.7
+* Pip 22.2.2
 
-Python 3.10.7
-Pip 22.2.2
-
-Steps to run the application
+***Steps to run the application***
 
 Clone the entire project source code from github by running command below in command prompt. Make sure git is installed on your local machine.
 
@@ -119,9 +118,9 @@ We will be working in two week iteration cycles. Each iteration we will complete
 * As a user, I can pick my favorite teams to receive constant in-game notifications of their matches. **Story Points: 5** 
 * As a user, I can mute notifications of certain teams or leagues that I am not that interested in. **Story Points: 5** 
 
-** Velocity: ** 
+**Velocity:** 
 * Ideal velocity : 0.9
 * Current velocity : 0.35
 
-** Burn Down Chart **
+**Burn Down Chart**
 ![BurnDownChart](https://user-images.githubusercontent.com/108439592/197363025-ae7b7d30-4cf4-4912-ab07-a7115fca19c0.jpg)
