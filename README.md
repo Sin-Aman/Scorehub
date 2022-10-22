@@ -3,7 +3,6 @@
 **Team Name:**
 
 CODE PANDAS
-
 IST 303 – Software Development
 
 **Team Members**
@@ -24,29 +23,29 @@ Environment to run the application:
 
 ***Steps to run the application***
 
-Clone the entire project source code from github by running command below in command prompt. Make sure git is installed on your local machine.
+* Make sure `git` is installed on your local machine. Clone the entire project source code from github by running command below in command prompt : 
 
-git clone https://github.com/PatrickWatkins20/Scorehub.git
+`git clone https://github.com/Sin-Aman/Scorehub.git`
 
-In command prompt, access the the directory "Scorehub"
+* In command prompt, access the the directory "Scorehub"
 
-cd Scorehub
+`cd Scorehub`
 
-Create Virtual Environment
+* Create a Virtual Environment
 
-Install virtual environment:
+* Install virtual environment:
 
-pip install virtualenv
+`pip install virtualenv`
 
-Create virtual environment named "webappenv" (Note : In command prompt make sure you are accessing same root folder where you have cloned source code in step 1)
+Create virtual environment named "venvi" (Note : In command prompt make sure you are accessing same root folder where you have cloned source code in step 1)
 
-python -m virtualenv webappenv
+`python -m virtualenv venvi`
 
-Activate the virtual environment:
+* Activate the virtual environment:
 
 For Windows OS use command below
 
-webappenv\Scripts\activate
+venvi\Scripts\activate
 
 For Mac and other Linux OS use command below.
 
