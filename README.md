@@ -63,7 +63,7 @@ Run the server on your machine
 
 **Application Concept:**
 
-A soccer notification application. The app would track score updates on live sporting events. The updates would include details such as which player scored, assisted, has been disciplined, how much time is left in the match, etc.
+A soccer notification application. The app will track score updates on live sporting events. The updates will include details such as which player scored, assisted, has been disciplined, how much time is left in the match, etc.
 
 **Stakeholders:**
 
@@ -92,7 +92,7 @@ Any sports/soccer fan looking to keep up to date with their favorite teams or sp
 
 **Project Roadmap**
 
-We will be working in two week iteration cycles. Each iteration we will complete the assigned user story and acceptance criteria. 
+We will be working in four week iteration cycles. Each iteration we will complete the assigned user story and acceptance criteria. 
 
 **Iteration 1** Due 10/4
 
