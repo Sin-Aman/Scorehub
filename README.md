@@ -7,13 +7,13 @@ IST 303 – Software Development
 
 **Team Members**
 
-[Maria Assumpta](https://cgu.instructure.com/groups/6458/users/19802)
+ [Maria Assumpta](https://cgu.instructure.com/groups/6458/users/19802)
 
-[Richard Caballero](https://cgu.instructure.com/groups/6458/users/17970)
+ [Richard Caballero](https://cgu.instructure.com/groups/6458/users/17970)
 
-[Aman Sinha](https://cgu.instructure.com/groups/6458/users/18675)
+ [Aman Sinha](https://cgu.instructure.com/groups/6458/users/18675)
 
-[Patrick Watkins](https://cgu.instructure.com/groups/6458/users/19938)
+ [Patrick Watkins](https://cgu.instructure.com/groups/6458/users/19938)
 
 ### How to run this application:
 
@@ -57,9 +57,9 @@ Create virtual environment named "venvi" (Note : In command prompt make sure you
 
 Run the server on your machine
 
-`(venvi)$ python main.py`
+ `(venvi)$ python flasktest.py`
 
- The website can be accessed at `http://127.0.0.1:8000`
+ The website can be accessed at `http://127.0.0.1:8080`
 
 **Application Concept:**
 
