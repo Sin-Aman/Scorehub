@@ -59,7 +59,7 @@ Run the server on your machine
 
  `(venvi)$ python flasktest.py`
 
- The website can be accessed at `http://127.0.0.1:8080`
+ The website can be accessed at `http://127.0.0.1:5000
 
 **Application Concept:**
 
