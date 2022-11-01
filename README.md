@@ -77,7 +77,7 @@ We will be working in two week iteration cycles. Each iteration we will complete
 * Import the desired data into our website 
 * As a user, I want to follow this information through twitter, so I can receive notifications of big soccer matches around the world. **Story Points: 5** 
 
-**Iteration 3** Due 11/1
+**Iteration 3 (Milestone 1.0) ** Due 11/1
 
 * As a user I want score information to be minimal and distinguishable so I can easily consume it through out my day. **Story Points: 8** 
 
