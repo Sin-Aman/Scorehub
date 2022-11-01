@@ -77,9 +77,27 @@ We will be working in two week iteration cycles. Each iteration we will complete
 * Import the desired data into our website 
 * As a user, I want to follow this information through twitter, so I can receive notifications of big soccer matches around the world. **Story Points: 5** 
 
-**Iteration 3(Milestone 1.0)** Due 11/1
+### Milestone 1.0
+**Iteration 3** Due 11/1
+1. Present to your class Milestone 1.0 of your project.
+   - **User Story:** As a user I want to see score information to be minimal and distinguishable so I can easily consume it through out my day. **Story Points: 8**
+2. You must present working code and explain what it does and how it fulfils the user stories.
+   - [ScoreHub.pynb](https://github.com/Sin-Aman/Scorehub/blob/main/ScoreHub.ipynb)
+   - Python Modules
+      - Pandas
+      - Jupyter notebooks
+      - Numpy
+      - Request
+   - Scrapping Data from: https://understat.com/
+   - Save score data as pandas dataframe
+   - Convert to an html format
+   - Display the html site
+3. Show and explain how the code was tested.
+   - If there is no changes to the table, exit and do not update the site. 
+4. Explain what remains to be done to accomplish Milestone 2.0.
+   - As a user, I can pick my favorite teams to receive constant in-game notifications of their matches. **Story Points: 5** 
+   - As a user, I can mute notifications of certain teams or leagues that I am not that interested in. **Story Points: 5** 
 
-* As a user I want score information to be minimal and distinguishable so I can easily consume it through out my day. **Story Points: 8** 
 
 **Iteration 4** Due 11/15
 
