@@ -72,7 +72,7 @@ We will be working in two week iteration cycles. Each iteration we will complete
 
 **Iteration 2** Due 10/18
 
-* As a user I want to receive live league standings in real time so I can stay on top of vital league information. **Story Points: 5**
+* As a user I want to receive live (EPL) league standings in real time so I can stay on top of vital league information. **Story Points: 5**
 * Identify a way to host data on web platform
 * Import the desired data into our website 
 * As a user, I want to follow this information through twitter, so I can receive notifications of big soccer matches around the world. **Story Points: 5** 
