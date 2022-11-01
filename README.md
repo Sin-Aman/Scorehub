@@ -123,3 +123,6 @@ We will be working in two week iteration cycles. Each iteration we will complete
 
 **Burn Down Chart**
 ![BurnDownChart](https://user-images.githubusercontent.com/108439592/197363025-ae7b7d30-4cf4-4912-ab07-a7115fca19c0.jpg)
+
+**Meetings log**
+[meetings log.xlsx](https://github.com/Sin-Aman/Scorehub/files/9912684/meetings.log.xlsx)
