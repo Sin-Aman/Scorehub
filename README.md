@@ -17,9 +17,9 @@ IST 303 – Software Development
 
 ### How to run this application:
 
-Environment to run the application:
-* Python 3.10.7
-* Pip 22.2.2
+* Application required to run:
+  Jupyter notebook
+
 
 ***Steps to run the application***
 
@@ -27,39 +27,10 @@ Environment to run the application:
 
  `git clone https://github.com/Sin-Aman/Scorehub.git`
 
-* In command prompt, access the the directory "Scorehub"
-
- `cd Scorehub`
-
-* Create a Virtual Environment
-
-* Install virtual environment:
-
- `pip install virtualenv`
-
-Create virtual environment named "venvi" (Note : In command prompt make sure you are accessing same root folder where you have cloned source code in step 1)
-
- `python -m virtualenv venvi`
-
-* Activate the virtual environment:
-
- For Windows OS use command below
-
- `venvi\Scripts\activate`
-
- For Mac and other Linux OS use command below.
-
- `source venvi/bin/activate`
-
-* Install the packages you need from requirements.txt. To install, use the commamd below.
-
- `(venvi)$ pip install -r requirements.txt`
-
-Run the server on your machine
-
- `(venvi)$ python flasktest.py`
-
- The website can be accessed at `http://127.0.0.1:5000
+* Run Jupyter notebook from command prompt using the code:
+  `jupyter notebook`
+  
+* Navigate to the directory inside Jupyter notebook where Scorehub is cloned and open the file named `ScoreHub.ipynb`. 
 
 **Application Concept:**
 
