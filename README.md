@@ -88,6 +88,7 @@ We will be working in two week iteration cycles. Each iteration we will complete
       - Jupyter notebooks
       - Numpy
       - Request
+      - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
    - Scrapping Data from: https://understat.com/
    - Save score data as pandas dataframe
    - Convert to an html format
