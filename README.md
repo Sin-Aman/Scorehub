@@ -83,7 +83,6 @@ Any sports/soccer fan looking to keep up to date with their favorite teams or sp
 * Display real time notifications
 * Display logo of the team appearing as the notification appears
 * Use python libraries for game information
-* Database to host information
 * Use existing api to push notifications (twitter)
 * Set notifications for a specific twitter profile
 * Minimal information about the game such as: score, who scored, assist info, substitutions, disciplinary action, etc.
