@@ -19,6 +19,9 @@ IST 303 – Software Development
 
 * Application required to run:
   Jupyter notebook
+  
+  Install Jupyter notebook using command prompt:
+  `pip install jupyterlab`
 
 
 ***Steps to run the application***
