@@ -37,6 +37,7 @@ IST 303 – Software Development
 
 * Run the codes together by selecting "Run All" from the drop down Cell tab.
 ![image](https://user-images.githubusercontent.com/112525909/200098224-477b8aa1-d711-43fb-ba54-bfaf8f88a84d.png)
+
 Click on clone and download zip
 Double click on the file to extract all files 
 
