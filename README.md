@@ -87,7 +87,7 @@ We will be working in two week iteration cycles. Each iteration we will complete
 1. Present to your class Milestone 1.0 of your project.
    - **User Story:** As a user I want to see score information to be minimal and distinguishable so I can easily consume it through out my day. **Story Points: 8**
 2. You must present working code and explain what it does and how it fulfils the user stories.
-   - [ScoreHub.pynb](https://github.com/Sin-Aman/Scorehub/blob/main/ScoreHub.ipynb)
+   - [ScoreHub.ipynb](https://github.com/Sin-Aman/Scorehub/blob/main/ScoreHub.ipynb)
    - Python Modules
       - Pandas
       - Jupyter notebooks
