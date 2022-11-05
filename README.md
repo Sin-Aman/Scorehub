@@ -36,6 +36,15 @@ IST 303 – Software Development
 * Navigate to the directory inside Jupyter notebook where Scorehub is cloned and open the file named `ScoreHub.ipynb`. 
 
 * Run the codes together by selecting "Run All" from the drop down Cell tab.
+![image](https://user-images.githubusercontent.com/112525909/200098224-477b8aa1-d711-43fb-ba54-bfaf8f88a84d.png)
+Click on clone and download zip
+Double click on the file to extract all files 
+
+![image](https://user-images.githubusercontent.com/112525909/200098239-46b0bbf0-1bb6-46c5-a796-65a45e1ad0ea.png)
+ Copy the ScoreHub.ipynb to any location where you can access it after launching jupyter notebook.
+ ![image](https://user-images.githubusercontent.com/112525909/200098260-3265548f-650b-4ec6-a8a6-9c666d292c32.png)
+
+ 
 
 **Application Concept:**
 
