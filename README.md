@@ -35,6 +35,8 @@ IST 303 – Software Development
   
 * Navigate to the directory inside Jupyter notebook where Scorehub is cloned and open the file named `ScoreHub.ipynb`. 
 
+* Run the codes together by selecting "Run All" from the drop down Cell tab.
+
 **Application Concept:**
 
 A soccer notification application. The app will track score updates on live sporting events. The updates will include details such as which player scored, assisted, has been disciplined, how much time is left in the match, etc.
