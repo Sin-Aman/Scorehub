@@ -68,7 +68,7 @@ Click on Cell
 
 ![image](https://user-images.githubusercontent.com/112525909/200098336-65fdb011-df4c-4890-91f4-3b9dbdfadf97.png)
 
-Click on RUN ALL
+**Click on RUN ALL**
  
 **Application Concept:**
 
