@@ -39,6 +39,7 @@ IST 303 – Software Development
 ![image](https://user-images.githubusercontent.com/112525909/200098224-477b8aa1-d711-43fb-ba54-bfaf8f88a84d.png)
 
 Click on clone and download zip
+
 Double click on the file to extract all files 
 
 ![image](https://user-images.githubusercontent.com/112525909/200098239-46b0bbf0-1bb6-46c5-a796-65a45e1ad0ea.png)
