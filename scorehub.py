@@ -5,6 +5,7 @@ import requests
 from bs4 import BeautifulSoup # webscrapping
 import json # Extract the json
 import webbrowser
+import os
 
 # Create the urls for the season and league
 base_url = 'https://understat.com/league'
@@ -137,4 +138,4 @@ text_file.write(html_table)
 text_file.close()
 
 url = 'index.html'
-webbrowser.open(url, new=2)  # open in new tab
+webbrowser.open_new_tab(url)  # open in new tab
