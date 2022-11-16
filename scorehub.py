@@ -138,4 +138,4 @@ text_file.write(html_table)
 text_file.close()
 
 url = 'index.html'
-webbrowser.open_new_tab(url)  # open in new tab
+webbrowser.open(url, 3)  # open in new tab
