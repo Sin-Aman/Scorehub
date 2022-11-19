@@ -18,55 +18,19 @@ IST 303 – Software Development
 ### How to run this application:
 
 * Application required to run:
-  Jupyter notebook
+  Install the Requirements file 
   
-  Install Jupyter notebook using command prompt:
-  `pip install jupyterlab`
-
 
 ***Steps to run the application***
+Make sure `git` is installed on your local machine. Clone the entire project source code from github by running command below in command prompt :
+git clone https://github.com/Sin-Aman/Scorehub.git`
+1. Clone or Pull the latest changes from the repository
+2. Open terminal or Command prompt and navigate to the location of scorehub repository
+3. install the requirements file,  pip install -r requirements.txt
+4. run the scorehub.py file  python -m scorehub
+5. You will get two tables, one will print in the terminal and the other one will export the index.html file
 
-* Make sure `git` is installed on your local machine. Clone the entire project source code from github by running command below in command prompt : 
 
- `git clone https://github.com/Sin-Aman/Scorehub.git`
-
-* Run Jupyter notebook from command prompt using the code:
-  `jupyter notebook`
-  
-* Navigate to the directory inside Jupyter notebook where Scorehub is cloned and open the file named `ScoreHub.ipynb`. 
-
-* Run the codes together by selecting "Run All" from the drop down Cell tab.
-![image](https://user-images.githubusercontent.com/112525909/200098224-477b8aa1-d711-43fb-ba54-bfaf8f88a84d.png)
-
-Click on clone and download zip
-
-Double click on the file to extract all files 
-
-![image](https://user-images.githubusercontent.com/112525909/200098239-46b0bbf0-1bb6-46c5-a796-65a45e1ad0ea.png)
- 
- Copy the ScoreHub.ipynb to any location where you can access it after launching jupyter notebook.
- 
- ![image](https://user-images.githubusercontent.com/112525909/200098260-3265548f-650b-4ec6-a8a6-9c666d292c32.png)
- 
-Double click on Jupyter Notebook
-
-![image](https://user-images.githubusercontent.com/112525909/200098296-fb2b440a-97f8-4543-9966-668894b5c58f.png)
-
-It will open a file like this.
-
-Search for your file in ether documents or desktop depending on where you saved it.
-
-![image](https://user-images.githubusercontent.com/112525909/200098310-c5982308-272b-48cf-8a0d-82aee6a49650.png)
-
-Mine was saved in documents
-
-Click on ScoreHub.ipynb
-
-![image](https://user-images.githubusercontent.com/112525909/200098319-b2570a9d-8c24-467d-9912-7f1a160f4284.png)
-
-Click on Cell
-
-![image](https://user-images.githubusercontent.com/112525909/200098336-65fdb011-df4c-4890-91f4-3b9dbdfadf97.png)
 
 **Click on RUN ALL**
  
