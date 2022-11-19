@@ -27,8 +27,9 @@ git clone https://github.com/Sin-Aman/Scorehub.git`
 1. Clone or Pull the latest changes from the repository
 2. Open terminal or Command prompt and navigate to the location of scorehub repository
 3. install the requirements file,  pip install -r requirements.txt
-4. run the scorehub.py file  python -m scorehub
-5. You will get two tables, one will print in the terminal and the other one will export the index.html file
+4. Make sure you are in the right directory in command prompt
+5. run the scorehub.py file  python -m scorehub
+6. You will get two tables, one will print in the terminal and the other one will export the index.html file
 
 
 
