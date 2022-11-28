@@ -10,12 +10,19 @@ import os
 import tweepy
 from dotenv import load_dotenv
 from serpapi import GoogleSearch
+import flag
 
 # goal is to print the following:
-# [team_a] just scored against [team_b]: [score_a] - [score_b] at minute [time]
+# [team_a or team_b] just scored at minute [time]!
+# [team_emoji][team_a]      [score_a]
+# Vs
+# [team_emoji][team_b]      [score_b]
+# Loads the .env file for the credentials
+
+load_dotenv()
 
 params = {
-  "api_key": "7835e3432f047519f65477d6e2afce616ca02bf13761993d9159ba6cd9d56cdf",
+  "api_key": os.environ.get('serp_api_key'),
   "device": "desktop",
   "engine": "google",
   "q": "world cup",
@@ -26,8 +33,7 @@ params = {
   "no_cache": "true"
 }
 
-# Loads the .env file for the credentials
-load_dotenv()
+
 
 # Credentials set in the .env file
 consumer_key = os.environ.get('consumer_key')
@@ -59,6 +65,8 @@ for hh in res:
     print("Vs")
     print(team2 + "      "+ scores[1] )
     print(" ")
+    # Status: Live Now, "Half-time", "FT", 
+    # "date":"Today",
     status = hh.get('status', "not yet played")
     time = hh.get('time', "LIVE NOW")
     print("status:" +"       " +status )
