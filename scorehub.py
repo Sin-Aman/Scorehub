@@ -6,6 +6,13 @@ from bs4 import BeautifulSoup # webscrapping
 import json # Extract the json
 import webbrowser
 import os
+# This is for twitter api
+# import tweepy
+# from dotenv import load_dotenv
+
+# # Loads the .env file for the credentials
+# load_dotenv()
+
 
 # Create the urls for the season and league
 base_url = 'https://understat.com/league'
