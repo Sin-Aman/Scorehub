@@ -21,6 +21,7 @@ import flag
 
 load_dotenv()
 
+
 params = {
   "api_key": os.environ.get('serp_api_key'),
   "device": "desktop",
