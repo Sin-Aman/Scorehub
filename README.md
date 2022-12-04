@@ -127,5 +127,6 @@ Part D
 6. Due: Presentation to class, including demo of the project. On Canvas, submit the URL of your repo.
 **Meetings log**
 
+
 Virtual meetups over Zoom are logged in this file.
 [meetings log.xlsx](https://github.com/Sin-Aman/Scorehub/files/9912684/meetings.log.xlsx)
