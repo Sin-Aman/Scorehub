@@ -125,8 +125,7 @@ Part D
 4. Include in your README, the three most important things you learned about software development in your project.
 5. Your README must include ALL the details on how to run the program, how to test it, and how to report the test coverage. 
 6. Due: Presentation to class, including demo of the project. On Canvas, submit the URL of your repo.
+
 **Meetings log**
-
-
 Virtual meetups over Zoom are logged in this file.
 [meetings log.xlsx](https://github.com/Sin-Aman/Scorehub/files/9912684/meetings.log.xlsx)
