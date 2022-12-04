@@ -80,7 +80,7 @@ We will be working in two week iteration cycles. Each iteration we will complete
 * As a user, I want to follow this information through twitter, so I can receive notifications of big soccer matches around the world. **Story Points: 5** 
 
 ### Milestone 2.0
-**Iteration 3** Due 06/12/2022
+**Iteration 4** Due 06/12/2022
 Part D
 
 1. Present to your class Milestone 2.0 of your project.
