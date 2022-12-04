@@ -7,7 +7,7 @@ IST 303 – Software Development
 
 **Team Members**
 
- [Maria Assumpta](https://cgu.instructure.com/groups/6458/users/19802)
+ [Maria Assumpta Komugabe](https://cgu.instructure.com/groups/6458/users/19802)
 
  [Richard Caballero](https://cgu.instructure.com/groups/6458/users/17970)
 
