@@ -47,19 +47,17 @@ Any sports/soccer fan looking to keep up to date with their favorite teams or sp
 
 1. As a user, I am interested in some but not all game details and most sports apps out there spam me with too much information. 
 2. As a user I want to receive this information in real time so I can stay on top of vital game information. 
-3. As a user, I want to follow this information through twitter, so I can receive notifications of big soccer matches around the world.
-4. As a user I want score information to be minimal and distinguishable so I can easily consume it through out my day. 
+3. As a user, I want to follow this information through twitter, so I can receive notifications of FIFA world cup 2022.
+4. As a user I want score information to be minimal and distinguishable so I can easily consume it through out my match. 
 5. As a user, I can pick my favorite teams to receive constant in-game notifications of their matches.
-6. As a user, I can mute notifications of certain teams or leagues that I am not that interested in.
 
 **Requirements:**
 
 * Display real time notifications
-* Display logo of the team appearing as the notification appears
-* Use python libraries for game information
+*  Use python libraries for game information
 * Use existing api to push notifications (twitter)
-* Set notifications for a specific twitter profile
-* Minimal information about the game such as: score, who scored, assist info, substitutions, disciplinary action, etc.
+* Set notifications for a specific twitter profile when a goal is scored
+
 
 
 
