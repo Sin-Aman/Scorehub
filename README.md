@@ -79,6 +79,42 @@ We will be working in two week iteration cycles. Each iteration we will complete
 * Import the desired data into our website 
 * As a user, I want to follow this information through twitter, so I can receive notifications of big soccer matches around the world. **Story Points: 5** 
 
+### Milestone 1.0
+**Iteration 3** Due 11/1
+1. Present to your class Milestone 1.0 of your project.
+   - **User Story:** As a user I want to see score information to be minimal and distinguishable so I can easily consume it through out my day. **Story Points: 8**
+2. You must present working code and explain what it does and how it fulfils the user stories.
+   - [ScoreHub.ipynb](https://github.com/Sin-Aman/Scorehub/blob/main/ScoreHub.ipynb)
+   - Python Modules
+      - Pandas
+      - Jupyter notebooks
+      - Numpy
+      - Request
+      - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+   - Scrapping Data from: https://understat.com/
+   - Save score data as pandas dataframe
+   - Convert to an html format
+   - Display the html site
+3. Show and explain how the code was tested.
+   - If there is no changes to the table, exit and do not update the site. 
+4. Explain what remains to be done to accomplish Milestone 2.0.
+   - As a user, I can pick my favorite teams to receive constant in-game notifications of their matches. **Story Points: 5** 
+   - As a user, I can mute notifications of certain teams or leagues that I am not that interested in. **Story Points: 5** 
+
+
+**Iteration 4** Due 11/15
+
+* As a user, I can pick my favorite teams to receive constant in-game notifications of their matches. **Story Points: 5** 
+* As a user, I can mute notifications of certain teams or leagues that I am not that interested in. **Story Points: 5** 
+
+**Velocity:** 
+* Ideal velocity : 0.9
+* Current velocity : 0.35
+
+**Burn Down Chart**
+![BurnDownChart](https://user-images.githubusercontent.com/108439592/197363025-ae7b7d30-4cf4-4912-ab07-a7115fca19c0.jpg)
+
+
 ### Milestone 2.0
 **Iteration 4** Due 06/12/2022
 Part D
