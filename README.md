@@ -56,7 +56,7 @@ Any sports/soccer fan looking to keep up to date with their favorite teams or sp
 * Display real time notifications
 *  Use python libraries for game information
 * Use existing api to push notifications (twitter-bot)
-* Use exisiting api to scrap real time data (SER API)
+* Use exisiting api to scrap real time data (SERP API)
 * Set notifications for a specific twitter profile when a goal is scored
 
 
