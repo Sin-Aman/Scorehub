@@ -28,7 +28,7 @@ git clone https://github.com/Sin-Aman/Scorehub.git`
 2. Open terminal or Command prompt and navigate to the location of scorehub repository
 3. install the requirements file,  pip install -r requirements.txt
 4. Follow our Twitter account @Scorehub_303 and turn on the post-notifications for the account, specifically "tweets". This is where the live in-game updates will be displayed.
-5. Request our .env file from the ScoreHub group, you will need it to run the twitter bot. There are credentials within the file that cannot be posted, or else our project could be hacked!
+5. Request the .env file from the ScoreHub group, you will need it to run the twitter bot. There are credentials within the file that cannot be posted, or else our project could be hacked!
 6. Once the credentials from the .env file are obtained, the twitter bot code can be run. The twitter bot is set to run during time periods of when matches are happening. As long as the match is underway, the twitter bot will scrape data for that match, and post the live notifications when a team scores.
 
  
@@ -51,10 +51,10 @@ Any sports/soccer fan looking to keep up to date with their favorite teams or sp
 **Requirements:**
 
 * Display real time notifications
-*  Use python libraries for game information
+* Use python libraries for game information
 * Use existing api to push notifications (twitter-bot)
 * Use exisiting api to scrap real time data (SERP API)
-* Set notifications for a specific twitter profile when a goal is scored
+* Turn on notifications for a specific twitter profile when a goal is scored
 
 
 
