@@ -27,13 +27,10 @@ git clone https://github.com/Sin-Aman/Scorehub.git`
 1. Clone or Pull the latest changes from the repository
 2. Open terminal or Command prompt and navigate to the location of scorehub repository
 3. install the requirements file,  pip install -r requirements.txt
-4. Make sure you are in the right directory in command prompt
-5. run the scorehub.py file  python -m scorehub
-6. You will get two tables, one will print in the terminal and the other one will export the index.html file
+4. Follow our Twitter account @Scorehub_303 and turn on the post-notifications for the account, specifically "tweets". This is where the live in-game updates will be displayed.
+5. Request our .env file from the ScoreHub group, you will need it to run the twitter bot. There are credentials within the file that cannot be posted, or else our project could be hacked!
+6. Once the credentials from the .env file are obtained, the twitter bot code can be run. The twitter bot is set to run during time periods of when matches are happening. As long as the match is underway, the twitter bot will scrape data for that match, and post the live notifications when a team scores.
 
-
-
-**Click on RUN ALL**
  
 **Application Concept:**
 
@@ -120,8 +117,9 @@ We will be working in two week iteration cycles. Each iteration we will complete
 Part D
 
 1. Present to your class Milestone 2.0 of your project.
-* As a user, I want to recieve live in-game notifications of my favorite teams when they are playing.
-
+* As a user, I want to recieve notifications of my favorite teams when they are playing.
+*As a user I want to receive this information in real time so I can stay on top of vital game information.
+*As a user I want score information to be minimal and distinguishable so I can easily consume it through out my match.
 2. You must present working code and explain what it does and how it fulfills the user stories.
 3. Show and explain how the code was tested. Include details on the levels of test coverage.
 4. The three most important things we learned about software development in your project:
