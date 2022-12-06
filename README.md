@@ -120,9 +120,11 @@ We will be working in two week iteration cycles. Each iteration we will complete
 Part D
 
 1. Present to your class Milestone 2.0 of your project.
+* As a user, I want to recieve live in-game notifications of my favorite teams when they are playing.
+
 2. You must present working code and explain what it does and how it fulfills the user stories.
 3. Show and explain how the code was tested. Include details on the levels of test coverage.
-4. Include in your README, the three most important things you learned about software development in your project.
+4. The three most important things we learned about software development in your project:
 a. We learned how to use Github to collaborate together. Utilizing this tool was very useful, especially if we could not all meet together. Updating and pushing content to the GitHub repo allowed us to show progress, which was especially helpful when we could not all meet together.
 b. We learned that user stories can always change. Projects such as these that use agile development can constantly change and evolve, and this one was no different. As our user stories changed, our velocity also needed to be adjusted as well. We learned how to adapt quickly, and think of creative ways to deal with the new hurdles that we found in front of us.
 c. We learned how to install various amounts of packages into Python to develop our project. 
