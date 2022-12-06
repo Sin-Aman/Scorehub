@@ -127,5 +127,5 @@ c. We learned how to install various amounts of packages into Python to develop 
 
 **Meetings log**
 Virtual meetups over Zoom are logged in this file.
-[meetings.log.xlsx](https://github.com/Sin-Aman/Scorehub/files/10170826/meetings.log.xlsx)
+[meetings.log.xlsx](https://github.com/Sin-Aman/Scorehub/files/10171220/meetings.log.xlsx)
 
