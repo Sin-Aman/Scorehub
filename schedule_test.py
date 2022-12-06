@@ -1,6 +1,6 @@
 import schedule
-from datetime import datetime, date, time, timezone
-# from datetime import datetime, timedelta, time
+import time
+from datetime import datetime
 
 # def job():
 #     print('Boo')
@@ -11,7 +11,48 @@ from datetime import datetime, date, time, timezone
 
 # print(current_time)
 
-hour = datetime.now().hour   # the current hour
-minute = datetime.now().minute # the current minute
+# hour = datetime.now().hour   # the current hour
+# minute = datetime.now().minute # the current minute
+# current_time = hour + minute
+# print(hour)
+# print(minute)
+# print(current_time)
 
-print(hour)
+# current_time = datetime.now().second
+# print(current_time)
+
+def job():
+    start_time = 10
+    end_time = 30
+    current_time = datetime.now().second
+    if current_time < start_time:
+        print("I am sleep")
+        print(current_time)
+    elif current_time >= end_time:
+        print('The game is over')
+        print(current_time)
+    else:
+        print('I am awake')
+        print(current_time)
+
+schedule.every(5).seconds.do(job)
+
+
+while True:
+    schedule.run_pending()
+    time.sleep(1)
+
+# import schedule
+# import time
+
+# def job():
+#     print("I'm working...")
+
+# # Run job every 3 second/minute/hour/day/week,
+# # Starting 3 second/minute/hour/day/week from now
+# schedule.every(3).seconds.do(job)
+
+
+# while True:
+#     schedule.run_pending()
+#     time.sleep(1)

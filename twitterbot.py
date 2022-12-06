@@ -33,11 +33,12 @@ def job():
   start_time = 11
   end_time = 13
   current_time = datetime.now().hour
-  if start_time >= current_time:
-    print("The match has not started")
-  elif end_time <= current_time:
-    print('The game is over')
-    exit()
+  if current_time < start_time:
+    print("The match has not started, it will start at 11am")
+    print(current_time)
+  elif current_time >= end_time:
+    print('The game is over, tomorrow there will be more games')
+    print(current_time)
   else:
     params = {
       "api_key": os.environ.get('serp_api_key'),
@@ -121,7 +122,7 @@ def job():
         trackscore_1.append(scores[0])
         trackscore_2.append(scores[1])
         break
-schedule.every(10).seconds.do(job)
+schedule.every(1).minutes.do(job)
 while True:
     schedule.run_pending()
     time.sleep(1)
