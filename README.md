@@ -123,6 +123,11 @@ Part D
 2. You must present working code and explain what it does and how it fulfills the user stories.
 3. Show and explain how the code was tested. Include details on the levels of test coverage.
 4. Include in your README, the three most important things you learned about software development in your project.
+a. We learned how to use Github to collaborate together. Utilizing this tool was very useful, especially if we could not all meet together. Updating and pushing content to the GitHub repo allowed us to show progress, which was especially helpful when we could not all meet together.
+b.
+c.
+
+
 5. Your README must include ALL the details on how to run the program, how to test it, and how to report the test coverage. 
 6. Due: Presentation to class, including demo of the project. On Canvas, submit the URL of your repo.
 
