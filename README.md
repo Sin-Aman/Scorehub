@@ -120,14 +120,10 @@ Part D
 * As a user, I want to recieve notifications of my favorite teams when they are playing.
 *As a user I want to receive this information in real time so I can stay on top of vital game information.
 *As a user I want score information to be minimal and distinguishable so I can easily consume it through out my match.
-2. You must present working code and explain what it does and how it fulfills the user stories.
-3. Show and explain how the code was tested. Include details on the levels of test coverage.
-4. The three most important things we learned about software development in your project:
+2. The three most important things we learned about software development in your project:
 a. We learned how to use Github to collaborate together. Utilizing this tool was very useful, especially if we could not all meet together. Updating and pushing content to the GitHub repo allowed us to show progress, which was especially helpful when we could not all meet together.
 b. We learned that user stories can always change. Projects such as these that use agile development can constantly change and evolve, and this one was no different. As our user stories changed, our velocity also needed to be adjusted as well. We learned how to adapt quickly, and think of creative ways to deal with the new hurdles that we found in front of us.
 c. We learned how to install various amounts of packages into Python to develop our project. 
-5. Your README must include ALL the details on how to run the program, how to test it, and how to report the test coverage. 
-6. Due: Presentation to class, including demo of the project. On Canvas, submit the URL of your repo.
 
 **Meetings log**
 Virtual meetups over Zoom are logged in this file.
