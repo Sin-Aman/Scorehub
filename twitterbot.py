@@ -1,16 +1,12 @@
 # Necessary packages
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
-import requests
 from bs4 import BeautifulSoup # webscrapping
-import json # Extract the json
-import webbrowser
 import os
 # This is for twitter api
 import tweepy
 from dotenv import load_dotenv
 from serpapi import GoogleSearch
-import flag
 import schedule
 import time
 from datetime import datetime
